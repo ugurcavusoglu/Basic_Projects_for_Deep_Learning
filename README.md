@@ -1,1 +1,1 @@
-# 1.ANN_Basic-Project
+# Basic_Projects_for_Deep_Learning
